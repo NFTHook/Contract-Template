@@ -1,0 +1,12 @@
+[
+    {
+        "name":"NFT",
+        "url":"https://github.com/NFTHook/contract-template/blob/main/NFT/def.json",
+        "source_code":"https://github.com/NFTHook/contract-template/blob/main/NFT/NFT.sol"
+    },
+    {
+        "name":"PiggyBank",
+        "url":"https://github.com/NFTHook/contract-template/blob/main/PiggyBank/def.json",
+        "source_code":"https://github.com/NFTHook/contract-template/blob/main/PiggyBank/PiggyBank.sol"
+    }
+]
